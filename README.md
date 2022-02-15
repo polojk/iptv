@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,1*1
+#EXTINF:-1,1*
 https://hfs265.serversicuro.cc/hls/dnzpemk7ztg4a3gyvd5h73zuq4zfslm6gsdamwl264tpfzg23f7t3sl22fta/index-v1-a1.m3u8
 #EXTINF:-1,1*2
 https://hfs265.serversicuro.cc/hls/dnzpems7ztg4a3gyvd5h7irprigfpq2avzmz22jqz6fdlqmmlprhkanztmkq/index-v1-a1.m3u8
