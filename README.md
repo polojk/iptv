@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,11111111111111
-https://tv4.calcio02.pw/live/spal.m3u8
+https://fiqwhpvllrndqhcm.wzcdn594.net:8443/hls/0zer896oz3mv6.m3u8?s=R1XuPvnZVM16WjE74hfwhA&e=1644976083
 #EXTINF:-1,1*1
 https://hfs265.serversicuro.cc/hls/dnzpemk7ztg4a3gyvd5h73zuq4zfslm6gsdamwl264tpfzg23f7t3sl22fta/index-v1-a1.m3u8
 #EXTINF:-1,1*2
