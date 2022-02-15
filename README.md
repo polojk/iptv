@@ -93,3 +93,5 @@ https://hfs269.serversicuro.cc/hls/,dnzpfes7ztg4a3gyvd5h73rvqskqocj26ab2grwpoakt
 https://hfs269.serversicuro.cc/hls/dnzpffk7ztg4a3gyvd5h7mlxqwo4pcmgircijlznqzeyqfqni45vecggzy7a/index-v1-a1.m3u8
 #EXTINF:-1,2*25
 https://hfs269.serversicuro.cc/hls/dnzpff27ztg4a3gyvd5h7pdzteiqvp5xpnait4tjkmm3clxfd3kmvfzjsjua/index-v1-a1.m3u8
+#EXTINF:-1,Scream (2022)
+https://hfs266.serversicuro.cc/hls/dnzpejpo3lg4a3gyvavh7prxt6mlqzz3p7fmetzzwy4dgbihfl4yui3figdq/index-v1-a1.m3u8
